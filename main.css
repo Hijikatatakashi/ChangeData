@@ -8,13 +8,8 @@
 }
 
 .symbol {
-  width: 100%;
-    min-width: 200px;
-    max-width: 600px;
-    padding: 10px;
-    box-sizing: border-box;
-    border: 1px solid #68779a;
-    background: #cbe8fa;
-    cursor: pointer;
+    width: 600px; /* ボタンの幅を調整 */
+    height: 150px; /* ボタンの高さを調整 */
+    font-size: 25px; /* ボタンのテキストのサイズを調整 */
 }
 
