@@ -7,15 +7,9 @@
     font-size: 2em;
 }
 
-<style>
-.symbol{
-    width: 50%;
-    min-width: 200px;
-    max-width: 600px;
-    padding: 10px;
-    box-sizing: border-box;
-    border: 1px solid #68779a;
-    background: #cbe8fa;
-    cursor: pointer;
+.symbol {
+    width: 150px; /* ボタンの幅を調整 */
+    height: 50px; /* ボタンの高さを調整 */
+    font-size: 16px; /* ボタンのテキストのサイズを調整 */
 }
-</style>
+
