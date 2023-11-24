@@ -18,15 +18,15 @@ function Num2Synbol(choice)
 
     switch (choice) {
         case 1:
-            symbol = "✊🏻";
+            symbol = "(^^♪";
             break;
 
         case 2:
-            symbol = "✌🏻";
+            symbol = "(^_-)-☆";
             break;
 
         default:
-            symbol = "🖐🏻";
+            symbol = "(^^)/";
             break;
     }
 
